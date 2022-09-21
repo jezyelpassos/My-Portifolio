@@ -1,4 +1,5 @@
 # My-Portifolio
+
 Portfólio dos meus desenvolvimentos. 
 
 ## Tarefas
@@ -9,5 +10,5 @@ O controle das tarefas desse projeto será realizado no GitHub
 
 :package: Nova funcionalidade.
 :up: Atualização do código
-:beatle: Correções de bugs
-::white_check_mark:: Entrega de release de uma parte funcional
+:beetle: Correções de bugs
+:white_check_mark: Entrega de release de uma parte funcional
